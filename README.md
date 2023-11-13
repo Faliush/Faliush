@@ -45,10 +45,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming"]
 
 <h3><strong>Where to find me:</strong></h3>
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikita-faliush-15316a29b/" target="_blank">
+<a href="https://www.linkedin.com/in/nikita-faliush-15316a29b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/nikita_faliush_/" target="_blank">
+<a href="https://www.instagram.com/nikita_faliush_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/faliush" target="_blank">

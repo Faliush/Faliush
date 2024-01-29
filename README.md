@@ -11,8 +11,8 @@ located_in: Kiev, UA
 from: Donetsk (Ukraine)
 education: ["Software engineering"]
 fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning"]
-currently_learning: ["React", "Angular"]
-will_learn: ["Azure"]
+currently_learning: ["Azure"]
+will_learn: ["Angular"]
 hobbies: ["Basketball", "Cinema", "Competitive Gaming"]
 ```
 
